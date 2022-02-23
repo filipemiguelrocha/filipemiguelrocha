@@ -14,7 +14,7 @@
 - :technologist: I love learning every day and finding solutions to my present `Problem`
 - :computer: My main cloud platform is `AWS`
 - :student: I’m currently learning: `Terraform` and `FinOps`.
-`
+
 <br>
 
 ## 🔥 Streak Stats

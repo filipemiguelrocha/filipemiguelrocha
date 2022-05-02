@@ -9,11 +9,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at FDS Portugal, a DXC Technology Company
+- :school: I am a `Cloud Engineer` at Caixa Mágica.
 - :trophy: `ISCTE` 1st Edition Cloud Computing UpSkill Program Graduate
 - :technologist: I love learning every day and finding `Solutions`
 - :computer: My main cloud platform is `AWS`
-- :student: I’m currently learning: `Terraform` and `FinOps`.
+- :student: I’m currently learning: `Terraform` and `GIT`.
 
 <br>
 

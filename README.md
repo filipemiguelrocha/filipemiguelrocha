@@ -5,8 +5,31 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipemiguelrocha) 
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+## 🚀 Cloud Computing Enthusiast | Problem Solver | GitHub Actions Fanatic
+
+Hello there! 👋 I am a dedicated Cloud Computing professional with over 2 years of hands-on experience in crafting automated and scalable cloud infrastructures.
+
+## 💡 Expertise Highlights:
+
+**Cloud Computing:** I bring over 2 years of expertise in the realm of Cloud Computing, with a focus on GCP mainly but also some knowledge of AWS and Azure. 
+
+**GitOps Champion:** I am well-versed in the art of GitOps methodologies, using GitHub Actions to automate workflows, streamline deployments, and enhance collaboration. Git is not just a version control tool for me; it's a way of life!
+Infrastructure Maestro: I leverage Terraform for Infrastructure as Code (IaC). Infrastructure challenges are puzzles waiting to be solved, and I thrive on finding elegant solutions.
+
+## 🔧 What I Do:
+
+**Complex Issue Resolution:** I specialize in dissecting complex technical challenges and piecing together solutions that not only fix the problem at hand but also fortify systems against future issues.
+
+**Automation Aficionado:** I am a firm believer in the power of automation. Through GitHub Actions and other cutting-edge techniques, I automate processes, making development and deployment pipelines efficient and error-free.
+
+## 🛠️ Tools of the Trade:
+
+**Cloud Platforms:** Currently going mad with GCP.
+
+**Infrastructure as Code:** Terraform is my toolkit for transforming architectural visions into reality. I code infrastructure, ensuring it's as flexible and dynamic as the digital landscape it resides in.
+
+**Version Control:** Git is my trusted companion, guiding me through collaborative projects and ensuring versioning nirvana.
+
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemiguelrocha&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

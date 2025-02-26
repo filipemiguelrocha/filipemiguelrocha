@@ -11,7 +11,7 @@ Hello there! 👋 I am a dedicated Cloud Computing professional with over 2 year
 
 ## 💡 Expertise Highlights:
 
-**Cloud Computing:** I bring over 2 years of expertise in the realm of Cloud Computing, with a focus on GCP mainly but also some knowledge of AWS and Azure. 
+**Cloud Computing:** I bring over 3 years of expertise in the realm of Cloud Computing, with a focus on GCP mainly but also some knowledge of AWS and Azure. 
 
 **GitOps Champion:** I am well-versed in the art of GitOps methodologies, using GitHub Actions to automate workflows, streamline deployments, and enhance collaboration. Git is not just a version control tool for me; it's a way of life!
 Infrastructure Maestro: I leverage Terraform for Infrastructure as Code (IaC). Infrastructure challenges are puzzles waiting to be solved, and I thrive on finding elegant solutions.
